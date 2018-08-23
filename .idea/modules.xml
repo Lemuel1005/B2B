@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/B2B.iml" filepath="$PROJECT_DIR$/.idea/B2B.iml" />
+      <module fileurl="file://$PROJECT_DIR$/credit-bean/credit-bean.iml" filepath="$PROJECT_DIR$/credit-bean/credit-bean.iml" />
+      <module fileurl="file://$PROJECT_DIR$/credit-common/credit-common.iml" filepath="$PROJECT_DIR$/credit-common/credit-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/credit-interface/credit-interface.iml" filepath="$PROJECT_DIR$/credit-interface/credit-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/credit-manage-service/credit-manage-service.iml" filepath="$PROJECT_DIR$/credit-manage-service/credit-manage-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/credit-manage-web/credit-manage-web.iml" filepath="$PROJECT_DIR$/credit-manage-web/credit-manage-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/credit-parent/credit-parent.iml" filepath="$PROJECT_DIR$/credit-parent/credit-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/credit-web-util/credit-web-util.iml" filepath="$PROJECT_DIR$/credit-web-util/credit-web-util.iml" />
+    </modules>
+  </component>
+</project>
